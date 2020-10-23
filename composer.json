@@ -8,7 +8,6 @@
     ],
     "require": {
         "dompdf/dompdf": "^0.8.6",
-        "cakephp/cakephp": "^4.1",
         "phpmailer/phpmailer": "^6.1"
     }
 }
