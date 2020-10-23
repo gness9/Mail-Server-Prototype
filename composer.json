@@ -1,0 +1,14 @@
+{
+    "name": "glenn/test",
+    "authors": [
+        {
+            "name": "gness9",
+            "email": "42481860+gness9@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.6",
+        "cakephp/cakephp": "^4.1",
+        "phpmailer/phpmailer": "^6.1"
+    }
+}

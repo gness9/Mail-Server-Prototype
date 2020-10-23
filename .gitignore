@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+
+#Composer packages
+vendor/*
+
 # User-specific files
 *.rsuser
 *.suo
